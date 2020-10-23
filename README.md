@@ -61,4 +61,16 @@ License: World Bank Dataset Terms of Use
 - [Szamil]. (2017). Suicide in the Twenty-First Century [dataset]. Retrieved from https://www.kaggle.com/szamil/suicide-in-the-twenty-first-century/notebook
 - World Health Organization. (2018). Suicide prevention. Retrieved from http://www.who.int/mental_health/suicide-prevention/en/
 
+Projects develop while studying for Udacity Nanodegrees:
+- [Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
+- [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
+## Projects
+
+- [Disaster Response Pipeline](./Disaster_Response_Pipeline/README.md) 
+- [Missing Migrants Project](./MissingMigrantsProject/README.md)
+- [Suicide Rates Overview](./Suicide-Rates-Overviewt/README.md)
+- [Write a Data Science Blog Post](./Write-a-Data-Science-Blog-Post/README.md)
+- [Recommendations with IBM](./Recommendations-with-IBM/README.md)
+
 
